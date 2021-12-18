@@ -1,4 +1,4 @@
-# ECE438
+# ECE438 mini project
 
 This is a repository of ECE 438 mini project.
 
